@@ -1,0 +1,149 @@
+
+.main{
+    padding: 100px;
+    display: flex;
+}
+.main img{
+    width: 80%;
+    height: auto;
+}
+.center{
+    padding: 20px;
+}
+.h1 {
+    font-family: Means Web,Georgia, 'Times New Roman', Times, serif;
+    color: var(--heading-color);
+    font-weight: 400;
+}
+.p{
+    font-size: 20px;
+}
+.p2{
+    font-size: 15px;
+}
+.button-home {
+   margin: 0rem 0 0 30% ;
+    box-sizing: border-box;
+    color: #ffffff;
+    display: block;
+    height: 50px;
+    font-size: 1.4em;
+    font-weight: 700;
+    padding: 4px;
+    position: relative;
+    text-decoration: none;
+    width: 5em;
+  }
+ .button-home .btn {
+    align-items: center;
+    cursor: pointer;
+    background: #ffe01b;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    transition: 0.5s ease;
+    width: 100%;
+  }
+ .button-home:hover .btn {
+    background-color: #ffe01b;
+  box-shadow: 10px 25px 20px rgba(3, 3, 3, 0.4);
+  color: black;
+  transform: translateY(-20px);
+  transition: .3s ;
+  }
+  .body-Card{
+    padding: 0;
+    display: flex;
+  }
+  .feature-Card{
+    width: 25%;
+    padding: 20px;
+    background-color: #d99536;
+  }
+  .feature-Card a{
+    text-align: center;
+    font-family: Means Web,Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: #241c15;
+    text-decoration: none;
+  }
+ .a:hover{
+    text-decoration: underline;
+  }
+  .feature-Card img{
+    width: 100%;
+  }
+  
+  .feature-Card2{
+    width: 25%;
+    padding: 20px;
+    background-color: #e7b75f;
+  }
+  .feature-Card2 img{
+    width: 100%;
+  }
+  .feature-Card2 a{
+
+    text-align: center;
+    font-family: Means Web,Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: #241c15;
+    text-decoration: none;
+  }
+  .feature-Card3{
+    width: 25%;
+    padding: 20px;
+    background-color: #fdf8ea;
+  }
+  .feature-Card3 img{
+    width: 100%;
+  }
+  .feature-Card3 a{
+    /* margin: 0;
+    padding: 0;
+    border: 0; */
+    text-align: center;
+    font-family: Means Web,Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: #241c15;
+    text-decoration: none;
+  }
+  .feature-Card4{
+    width: 25%;
+    padding: 20px;
+    background-color: #fff;
+  }
+  .feature-Card4 img{
+    width: 100%;
+  }
+  .feature-Card4 a{
+    /* margin: 0;
+    padding: 0;
+    border: 0; */
+    text-align: center;
+    font-family: Means Web,Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: #241c15;
+    text-decoration: none;
+  }
+.module{
+  background-color: #241c15;
+  width: 100%;
+}
+.module-content{
+  padding: 5rem;
+}
+.module-content img{
+  width: 100%;
+}
+.p3{
+  color: white;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  text-align: center;
+  justify-content: center;
+justify-items: center;
+    font-weight: 400;
+    letter-spacing: -.02rem;
+}

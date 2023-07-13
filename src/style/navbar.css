@@ -1,0 +1,96 @@
+.icon-bar{
+    width: 100%;
+    background: #fdf8ea;
+    overflow: auto;
+    display: flex;
+    position:fixed;
+    display: block;
+    transition: top 0.3s;
+}
+.icon-bar ul li{
+    float: left;
+    list-style-type: none;
+    text-align: center;
+    width: 10%;
+    padding: 12px 0;
+font-size: 30px;
+}
+.icon-bar a{
+    text-align: center;
+    width: 20%;
+    padding: 12px 0;
+color:black;
+text-decoration: none;
+font-size: 20px;
+}
+.icon-bar a:hover{
+    /* background-color: #f9e0fa; */
+    text-decoration: underline;
+}
+.btn-nav{
+display: flex;
+margin-left: 200px;
+}
+.btn-nav1{
+    /* box-sizing: border-box;
+     display: block; 
+    height: 60px;
+    margin: 0 20px;
+    font-size: 1.4em; 
+     font-weight: 700; 
+    position: relative; 
+     text-decoration: none; 
+    width: 5em; */
+    /* color: black; */
+    height: 30px;
+    width:5em;
+    background: white;
+    border-radius: 20px;
+    justify-content: center;
+margin: 12px 20px 0 40%;
+transition: 0.5s ease;
+cursor: pointer;
+  }
+  .btn-nav2{
+    background: #ffe01b; 
+    height: 30px;
+    width: 5em;
+  align-items: center;
+    cursor: pointer;  
+    border-radius: 20px;
+    justify-content: center;
+    transition: 0.5s ease;
+
+  }
+ /* .button-nav1 .btn-nav2 {
+  background: #ffe01b; 
+  align-items: center;
+    cursor: pointer;  
+    border-radius: 20px;
+    justify-content: center;
+    height: 100%;
+    transition: 0.5s ease;
+  } */
+ .button-nav1:hover .btn-nav2 {
+    background-color: #ffe01b;
+  box-shadow: 10px 25px 20px rgba(3, 3, 3, 0.4);
+  color: black;
+  transform: translateY(-5px);
+  transition: .3s ;
+  }
+  /* .button-nav .btn-nav1 {
+    align-items: center;
+    cursor: pointer;  
+    background: white;
+    border-radius: 20px;
+    justify-content: center;
+    height: 100%;
+    
+  } */
+ .button-nav:hover .btn-nav1 {
+    background-color: white;
+  box-shadow: 10px 25px 20px rgba(3, 3, 3, 0.4);
+  color: black;
+  transform: translateY(-5px);
+  transition: .3s ;
+  }

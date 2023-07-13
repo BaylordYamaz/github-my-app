@@ -1,0 +1,127 @@
+.button-Learnmore {
+    margin-top: 2rem;
+    box-sizing: border-box;
+    color: #ffffff;
+    display: block;
+    height: 50px;
+    font-size: 1.4em;
+    font-weight: 600;
+    position: relative;
+    text-decoration: none;
+    width: 5em;
+  }
+ .button-Learnmore .btn-Learnmore {
+    align-items: center;
+    cursor: pointer;
+    background: #d99536;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    transition: 0.5s ease;
+    width: 100%;
+  }
+ .button-Learnmore:hover .btn-Learnmore {
+    background-color: #d99536;
+  box-shadow: 10px 25px 20px rgba(3, 3, 3, 0.4);
+  color: black;
+  transform: translateY(-20px);
+  transition: .3s ;
+  } 
+
+
+
+  .button-Learnmore2 {
+    margin-top: 2rem;
+    box-sizing: border-box;
+    color: #ffffff;
+    display: block;
+    height: 50px;
+    font-size: 1.4em;
+    font-weight: 600;
+    position: relative;
+    text-decoration: none;
+    width: 5em;
+  }
+ .button-Learnmore2 .btn-Learnmore2 {
+    align-items: center;
+    cursor: pointer;
+    background: #e7b75f;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    transition: 0.5s ease;
+    width: 100%;
+  }
+ .button-Learnmore2:hover .btn-Learnmore2 {
+    background-color: #e7b75f;
+  box-shadow: 10px 25px 20px rgba(3, 3, 3, 0.4);
+  color: black;
+  transform: translateY(-20px);
+  transition: .3s ;
+  } 
+
+
+  .button-Learnmore3 {
+    margin-top: 2rem;
+    box-sizing: border-box;
+    color: #ffffff;
+    display: block;
+    height: 50px;
+    font-size: 1.4em;
+    font-weight: 600;
+    position: relative;
+    text-decoration: none;
+    width: 5em;
+  }
+ .button-Learnmore3 .btn-Learnmore3 {
+    align-items: center;
+    cursor: pointer;
+    background: #fdf8ea;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    transition: 0.5s ease;
+    width: 100%;
+  }
+ .button-Learnmore3:hover .btn-Learnmore3 {
+    background-color: #fdf8ea;
+  box-shadow: 10px 25px 20px rgba(3, 3, 3, 0.4);
+  color: black;
+  transform: translateY(-20px);
+  transition: .3s ;
+  } 
+
+
+  .button-Learnmore4 {
+    margin-top: 2rem;
+    box-sizing: border-box;
+    color: #ffffff;
+    display: block;
+    height: 50px;
+    font-size: 1.4em;
+    font-weight: 600;
+    position: relative;
+    text-decoration: none;
+    width: 5em;
+  }
+ .button-Learnmore4 .btn-Learnmore4 {
+    align-items: center;
+    cursor: pointer;
+    background: #fff;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    transition: 0.5s ease;
+    width: 100%;
+  }
+ .button-Learnmore4:hover .btn-Learnmore4 {
+    background-color: #fff;
+  box-shadow: 10px 25px 20px rgba(3, 3, 3, 0.4);
+  color: black;
+  transform: translateY(-20px);
+  transition: .3s ;
+  } 
